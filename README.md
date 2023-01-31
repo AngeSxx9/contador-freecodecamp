@@ -1,7 +1,5 @@
 # Contador de clics - freeCodeCamp
 
-## Descripción
-
 Esto es una imitación de un contador creado con React.js por Estefania Cassingena Navone en un curso de freeCodeCamp usando Hooks de estado y eventos para aprender los fundamentos de React.
 
 ## Autor
